@@ -7,7 +7,7 @@
 I enjoy building practical projects that connect **hardware, software, and intelligent systems**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vedant--Jagtap-181717?style=for-the-badge&logo=github)](https://github.com/Vedant-Jagtap)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([Vedant-Jagtap](https://www.linkedin.com/in/vedant-jagtap-577-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vedant-jagtap-577-/)
 
 </div>
 
@@ -90,8 +90,8 @@ A conversational assistant for working with documents using retrieval-augmented 
 ## 📫 Connect With Me
 
 - **GitHub:** [Vedant-Jagtap](https://github.com/Vedant-Jagtap)
-- **LinkedIn:** [Vedant-Jagtap](https://www.linkedin.com/in/vedant-jagtap-577-/)
-- **Email:** [Vedant-Jagtap](vedantjagtap826@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/vedant-jagtap-577-/]
+- **Email:** [vedantjagtap826@gmail.com]
 
 ---
 
